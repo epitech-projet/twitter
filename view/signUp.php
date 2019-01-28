@@ -10,7 +10,10 @@
         <main class="container">
             <section class="mt-5">
                 <h1>S'inscrire à Tweet Academy</h1>
-                <form action="#" method="post">
+
+                <div id="rien"><p></p></div>
+
+                <form method="post">
                     <div class="form-group">
                         <label for="username">Username @ *</label>
                         <input type="text" class="form-control" name="username" id="username">
@@ -28,7 +31,7 @@
 
                     <div class="form-group">
                         <label for="email">Email *</label>
-                        <input type="email" class="form-control" name="email" id="email">
+                        <input type="text" class="form-control" name="email" id="email">
                     </div>
 
                      <div class="form-group">
@@ -45,4 +48,10 @@
             </section>
         </main>
     </body>
+    <script
+			  src="https://code.jquery.com/jquery-3.3.1.js"
+			  integrity="sha256-2Kok7MbOyxpgUVvAk/HJ2jigOSYS2auK4Pfzbm7uH60="
+			  crossorigin="anonymous">
+    </script>
+    <script type="text/javascript" src="../js/signup.js"></script>
 </html>

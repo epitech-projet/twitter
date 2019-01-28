@@ -5,7 +5,6 @@
       <title>Connexion</title>
       <meta name="viewport" content="width=device-width, initial-scale=1">
       <link rel="stylesheet" type="text/css" media="screen" href="bootstrap.css" />
-      <link rel="stylesheet" href="style.css">
    </head>
    <body>
       <div class="container">
@@ -30,7 +29,7 @@
                <div class="mt-3">
                   <p>
                       Nouveau sur Twitter ? 
-                      <a href="signup.php"> S'inscrire maintenant</a>
+                      <a href="signUp.php"> S'inscrire maintenant</a>
                   </p>
                </div>
             </section>

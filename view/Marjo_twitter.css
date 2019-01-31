@@ -1,5 +1,4 @@
-html
-{
+	html {
 	display: flex;
 	justify-content: center;
 	background: #e6ecf0;
@@ -8,8 +7,7 @@ html
     line-height: 20px;
     overflow-y: scroll;
 }
-.details_menu
-{
+.details_menu {
 	display: flex;
 	justify-content: space-around;
 	border-bottom: solid grey 1px;
@@ -18,60 +16,52 @@ html
 	list-style-type: none;	
 }
 
-ul
-{
+ul {
 	display: flex;
 	justify-content: space-around;
 	list-style-type: none;
 
 }
 
-li
-{
+li {
 	margin: 9px;
 }
 
-.pro-fil
-{
+.pro-fil {
 	background-color:#fff;
 	margin: 10px;
 	line-height: inherit;
     padding: 15px;
 }
 
-.tendance
-{
+.tendance {
 	background-color:#fff;
 	margin: 10px;
 	line-height: inherit;
     padding: 15px;
 }
 
-.news
-{
+.news {
 	background-color:#fff;	
 	margin: 5px;
 	line-height: inherit;
     padding: 15px;
 }
 
-.liste_news
-{
+.liste_news {
 	background-color:#fff;
 	margin: 5px;
 	line-height: inherit;
     padding: 15px;
 }
 
-.suggestion
-{
+.suggestion {
 	background-color:#fff;
 	margin: 10px;
 	line-height: inherit;
     padding: 15px;
 }
-.conditions
-{
+.conditions {
 	background-color:#fff;
 	margin: 10px;
 	line-height: inherit;
@@ -79,12 +69,10 @@ li
 
 }
 
-.planP
-{
+.planP {
 	background-color: #e6ecf0;
 	display: flex;
 	justify-content: center;
-
 }
 
 

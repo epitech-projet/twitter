@@ -10,7 +10,7 @@ $(document).ready(function() {
                 if (data === true) {
                     $("#display-error").html("");
                     $("#display-error").addClass("hide");
-                    location.replace("profile_user.php");
+                    location.replace("user_profile.php");
                 } else {
                     $("#display-error").removeClass("hide");
                     $("#display-error").html(data);

@@ -10,9 +10,7 @@
         <main class="container">
             <section class="mt-5">
                 <h1>S'inscrire à Tweet Academy</h1>
-
-                <div id="rien"><p></p></div>
-
+                <div class="alert alert-danger" id="display-error"></div>
                 <form method="post">
                     <div class="form-group">
                         <label for="username">Username @ *</label>
